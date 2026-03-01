@@ -12,7 +12,7 @@
 	margin: 20px;
 	display: inline-block;
 	border-radius: 15px;
-	border: solid 1px black;
+	border: solid 2px rgb(144, 203, 255);
 	padding: 5px;
 	background-color: aliceblue;
 }
